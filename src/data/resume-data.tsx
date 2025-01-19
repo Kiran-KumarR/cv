@@ -1,9 +1,6 @@
 import {
-  ClevertechLogo,
   ConsultlyLogo,
-  JojoMobileLogo,
   MonitoLogo,
-  NSNLogo,
   ParabolLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
@@ -17,7 +14,7 @@ export const RESUME_DATA = {
     "Full Stack Dev, Building a career in Software Development.",
   summary: (
     <ol>
-      <li>Software Developer with hands-on experience building dynamic, responsive web applications with a strong focus on performance, SEO optimization, and user-centric design. I'm passionate about continuous learning and staying at the forefront of evolving technologies.
+      <li>Software Developer with hands-on experience building dynamic, responsive web applications with a strong focus on performance, SEO optimization, and user-centric design. I&apos;m passionate about continuous learning and staying at the forefront of evolving technologies.
       </li>
     </ol>
   ),
