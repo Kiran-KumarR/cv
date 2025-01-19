@@ -170,7 +170,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Book Verse",
-      techStack: ["C#", ",Net Core","MVC","xUnit"],
+      techStack: ["C#", ".Net Core","MVC","xUnit"],
       description:
         "Comprehensive Web-API designed for interfacing with external book APIs and storing the obtained data in a SQL Server database. Supports a range of HTTP methods, providing robust functionality for handling various scenarios related to book information management.",
       logo: MonitoLogo,
