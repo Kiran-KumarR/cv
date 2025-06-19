@@ -106,13 +106,14 @@ export const RESUME_DATA = {
   skills: [
     "Next.js",
     "React.js",
-    "Context API",
     "Node.js",
     "Express.js",
     "Contentful CMS",
     "StoryBook",
     "TypeScript",
     "JavaScript",
+    "Context API",
+    "Tanstack",
     "Python",
     "HTML5",
     "CSS3",
@@ -126,6 +127,9 @@ export const RESUME_DATA = {
     "Git / GitHub",
     "MySQL",
     "MongoDB",
+    "PostgreSQL",
+    "Sequelize",
+    "Prisma",
     "Figma",
     "Postman",
     "Firebase",
@@ -170,7 +174,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Book Verse",
-      techStack: ["C#", ".Net Core","MVC","xUnit"],
+      techStack: ["C#", ".Net Core", "MVC", "xUnit"],
       description:
         "Comprehensive Web-API designed for interfacing with external book APIs and storing the obtained data in a SQL Server database. Supports a range of HTTP methods, providing robust functionality for handling various scenarios related to book information management.",
       logo: MonitoLogo,
@@ -181,7 +185,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Smart Attendance System",
-      techStack: ["Python", "OpenCV","dlib","FTP" ,"Socket Programming","PyQt5"],
+      techStack: ["Python", "OpenCV", "dlib", "FTP", "Socket Programming", "PyQt5"],
       description:
         "With the assistance of this system, the instructor may take the attendance of the entire class without interruption. This proposed can read, detect and recognize faces from an image, video, and live stream.",
       logo: MonitoLogo,
@@ -192,7 +196,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Time-Table Management System",
-      techStack: ["JavaScript", "HTML/CSS" ,"MongoDB"],
+      techStack: ["JavaScript", "HTML/CSS", "MongoDB"],
       description:
         "A college timetable is a temporal arrangement of set of lectures and classroom in which all given constraints are satisfied. By introducing a practical timetabling algorithm capable of taking care of bot strong and weak constraints effectively",
       logo: MonitoLogo,
